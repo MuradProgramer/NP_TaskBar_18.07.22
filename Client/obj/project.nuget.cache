@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EAI9z2FvCcapY6yV7w9fnvZzlstQi7JmWq3Ot6zb+WYFNYsBh0ZAscl/dJHomN8w2aTrq5AjZLuhCKgIx/5NJQ==",
+  "success": true,
+  "projectFilePath": "D:\\Network Programming\\Lesson4HW_Taskbar\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
